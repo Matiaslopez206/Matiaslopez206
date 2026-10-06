@@ -18,6 +18,27 @@ Actualmente trabajo principalmente con **Unity y C#**, además de desarrollar pr
 
 </div>
 
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%">
+<img src="./assets/destiny.png" width="100%">
+</td>
+
+<td width="33%">
+<img src="./assets/neural-leak.png" width="100%">
+</td>
+
+<td width="33%">
+<img src="./assets/other-night.png" width="100%">
+</td>
+
+</tr>
+</table>
+
+</div>
 ---
 
 # 👨‍💻 Sobre mí
