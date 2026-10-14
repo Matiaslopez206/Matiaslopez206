@@ -1,44 +1,47 @@
 
 <div align="center">
 
-# 🎮 MATÍAS LÓPEZ
+<h1>🎮 MATÍAS LÓPEZ</h1>
 
-### GAME DEVELOPER
+<h3>GAME DEVELOPER</h3>
 
-**Unity · Unreal Engine · C# · Blueprints**
+<p><strong>Unity · Unreal Engine · C# · Blueprints</strong></p>
 
-Desarrollador de videojuegos en formación, enfocado en crear experiencias interactivas mediante programación, diseño y arte digital.
+<p>Desarrollador de videojuegos en formación, enfocado en crear experiencias interactivas mediante programación, diseño y arte digital.</p>
 
 <br>
 
 <a href="https://github.com/matiaslopez206">
-  <img src="https://img.shields.io/badge/GitHub-MatiasLopez206-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-MatiasLopez206-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
 <img src="https://img.shields.io/badge/UNREAL_ENGINE-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C sharp">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/BLENDER-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
 <img src="https://img.shields.io/badge/ASEPRITE-7D929E?style=flat-square" alt="Aseprite">
 <img src="https://img.shields.io/badge/KRITA-3BABFF?style=flat-square&logo=krita&logoColor=white" alt="Krita">
 
 <br><br>
 
-## 📫 Contacto
+<h3>📫 Contacto</h3>
 
 <a href="mailto:matiariellopez85@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/EMAIL-Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/matias-lopez-119517402/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mi%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LINKEDIN-Mi%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://itch.io/profile/matiariellopez">
-  <img src="https://img.shields.io/badge/itch.io-Mis%20juegos-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
+<img src="https://img.shields.io/badge/ITCH.IO-Mis%20juegos-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
 </a>
 
+</div>
+
 ---
+
 
 </div>
 
