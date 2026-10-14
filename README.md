@@ -221,6 +221,11 @@ Fan-game que reinterpreta la fórmula clásica de *Five Nights at Freddy's* en u
 **Rol:** Programador • Implementador • Artista 3D
 **Estado:** 🟢 Publicado en itch.io
 
+Imagenes:
+
+<img width="250" height="250" alt="image_d9bf80" src="https://github.com/user-attachments/assets/e7e8befc-0a6f-4a87-b805-7bba01e8c639" />
+
+
 Prototipo de acción en tercera persona ambientado en un mundo cyberpunk, centrado en el combate dinámico, la movilidad y los enfrentamientos contra jefes.
 
 ### Características principales
