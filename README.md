@@ -147,12 +147,7 @@ Mi objetivo es continuar desarrollando mis habilidades y crear videojuegos cada 
 
 Imagenes:
 
-<img width="250" height="250" alt="Captura de pantalla 2025-06-25 193453" src="https://github.com/user-attachments/assets/af76e7ec-d730-4367-9b5a-8698fffdf2a2" />
-
-<img width="250" height="250" alt="Captura de pantalla 2025-06-18 195616" src="https://github.com/user-attachments/assets/9a2cf047-e269-4652-9bb0-637523687057" />
-
-<img width="250" height="250" alt="Captura de pantalla 2025-06-25 201929" src="https://github.com/user-attachments/assets/0b6512b0-38ff-4075-9597-d6cffc245e21" />
-
+<img width="250" height="250" alt="Captura de pantalla 2025-06-25 193453" src="https://github.com/user-attachments/assets/af76e7ec-d730-4367-9b5a-8698fffdf2a2" /> <img width="250" height="250" alt="Captura de pantalla 2025-06-18 195616" src="https://github.com/user-attachments/assets/9a2cf047-e269-4652-9bb0-637523687057" /> <img width="250" height="250" alt="Captura de pantalla 2025-06-25 201929" src="https://github.com/user-attachments/assets/0b6512b0-38ff-4075-9597-d6cffc245e21" />
 
 Novela visual centrada en **Félix**, un joven que debe viajar entre el mundo real y el mundo de fantasía **Elarion** para restablecer el equilibrio entre ambos mundos y enfrentarse a su antiguo amigo **Lurios**.
 
