@@ -320,6 +320,8 @@ Busco seguir construyendo proyectos que me permitan aprender, experimentar y mej
 
 Si querés conocer más sobre mis proyectos o colaborar en algún desarrollo, podés encontrarme a través de GitHub y de las plataformas donde publico mis juegos.
 
+linkedin.com/in/matias-lopez-119517402
+matiariellopez85@gmail.com
 <br>
 
 <div align="center">
