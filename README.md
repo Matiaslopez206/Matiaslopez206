@@ -1,16 +1,47 @@
+
 <div align="center">
 
-# 🎮 Matías López
+# 🎮 MATÍAS LÓPEZ
 
-### Desarrollador de Videojuegos • Unity • Unreal Engine
+### GAME DEVELOPER
 
-Desarrollador de videojuegos en formación, enfocado en crear experiencias interactivas y desarrollar proyectos propios.
+**Unity · Unreal Engine · C# · Blueprints**
 
-Me interesa especialmente la **programación de gameplay**, la **implementación de sistemas**, el **diseño de videojuegos** y la creación de **recursos 2D y 3D**.
-
-Actualmente trabajo principalmente con **Unity y C#**, además de desarrollar proyectos y prototipos utilizando **Unreal Engine y Blueprints**.
+Desarrollador de videojuegos en formación, enfocado en crear experiencias interactivas mediante programación, diseño y arte digital.
 
 <br>
+
+<a href="https://github.com/matiaslopez206">
+  <img src="https://img.shields.io/badge/GitHub-MatiasLopez206-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+<img src="https://img.shields.io/badge/UNREAL_ENGINE-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C sharp">
+<img src="https://img.shields.io/badge/BLENDER-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+<img src="https://img.shields.io/badge/ASEPRITE-7D929E?style=flat-square" alt="Aseprite">
+<img src="https://img.shields.io/badge/KRITA-3BABFF?style=flat-square&logo=krita&logoColor=white" alt="Krita">
+
+<br><br>
+
+## 📫 Contacto
+
+<a href="mailto:matiariellopez85@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/matias-lopez-119517402/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mi%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://itch.io/profile/matiariellopez">
+  <img src="https://img.shields.io/badge/itch.io-Mis%20juegos-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io">
+</a>
+
+---
+
+</div>
+
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
@@ -315,15 +346,6 @@ Continuar creciendo como desarrollador de videojuegos y participar en proyectos 
 Busco seguir construyendo proyectos que me permitan aprender, experimentar y mejorar tanto mis habilidades técnicas como creativas.
 
 ---
-
-# 📫 Contacto
-
-Si querés conocer más sobre mis proyectos o colaborar en algún desarrollo, podés encontrarme a través de GitHub y de las plataformas donde publico mis juegos.
-
-linkedin.com/in/matias-lopez-119517402
-
-matiariellopez85@gmail.com
-<br>
 
 <div align="center">
 
